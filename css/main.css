@@ -39,7 +39,7 @@ span{
     padding-right: 15px;
 }
 .section-main{
-    background-image: url(/img/background\ 1\ screen\ mob.png);
+    background-image: url(../img/bg-2);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ span{
     top: 6px;
 }
 .section-stock{
-    background-image:url(/img/bg-2.png);
+    background-image:url(../img/bg-2.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -280,14 +280,14 @@ span{
     background-color: rgb(255, 255, 255,0.55);
 }
 .slider-milk{
-    background-image: url(/img/milk.png);
+    background-image: url(../img/milk.png);
 }
 .slider-coils{
-    background-image: url(/img/coils.png);
+    background-image: url(../img/coils.png);
 
 }
 .slider-steaks{
-    background-image: url(/img/steaks.png);
+    background-image: url(../img/steaks.png);
 
 }
 .slider-text{
@@ -337,7 +337,7 @@ span{
     display: block;
     width: 1.875rem;
     height:1.875rem;
-    background-image: url(img/plus.svg);
+    background-image: url(../img/plus.svg);
 }
 .slider-thumb {
     position: relative;
@@ -378,15 +378,15 @@ span{
 }
 .slick-prev{
      right: 80px;
-     background-image: url(/img/arrow-prev.svg);
+     background-image: url(../img/arrow-prev.svg);
 }
 .slick-next{
     right: 0;
-    background-image: url(/img/arrow-next.svg);
+    background-image: url(../img/arrow-next.svg);
 
 }
 .section-advantage{
-    background-image: url(/img/bg-3.png);
+    background-image: url(../img/bg-3.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -514,7 +514,7 @@ span{
     background-color:#d26a22;
     border: none;
     border-radius: 100%;
-    background-image: url(/img/cart.png);
+    background-image: url(../img/cart.png);
     background-size: 1rem 0.87rem;
     background-repeat: no-repeat;
     background-position:center center;
@@ -552,7 +552,7 @@ span{
 }
 
 .section-catalog {
-    background-image: url(img/bg-5.png);
+    background-image: url(../img/bg-5.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -703,7 +703,7 @@ span{
     display: block;
     width: 1.56rem;
     height: 1.56rem;
-    background-image: url(/img/refresh.png);
+    background-image: url(../img/refresh.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
@@ -748,18 +748,18 @@ span{
 }
 .box-delivery-list_mc {
     width: 53px;
-    background-image: url(/img/mastercard.svg);
+    background-image: url(../img/mastercard.svg);
     background-size: 53px 32px;
 }
 .box-delivery-list_visa {
     width: 74px;
-    background-image: url(/img/visa.svg);
+    background-image: url(../img/visa.svg);
     background-size: 74px 32px;
     background-position: 0 -2px;
 }
 .box-delivery-list_paypal {
     width: 87px;
-    background-image: url(/img/paypal.svg);
+    background-image: url(../img/paypal.svg);
     background-size: 87px 24px;
     background-position: 0 4px;
 }
@@ -810,10 +810,10 @@ span{
     top: calc(50% - 12.5px);
 }
 .box-form-list_tel::before {
-    background-image: url(/img/phoneee.png);
+    background-image: url(../img/phoneee.png);
 }
 .box-form-list_email::before {
-    background-image: url(/img/mailll.png);
+    background-image: url(../img/mailll.png);
     background-position: 0 center;
 }
 .box-form-list_link {
@@ -875,7 +875,7 @@ span{
 .logo {
     display: block;
     background-repeat: no-repeat;
-    background-image: url(/img/logo.svg);
+    background-image: url(../img/logo.svg);
     width: 120px;
     height: 32px;
     margin-right: 120px;
@@ -929,14 +929,14 @@ span{
     margin-left: 25px;
 }
 .box-footer-social_vk {
-    background-image: url(/img/vk.svg);
+    background-image: url(../img/vk.svg);
     background-size: 23px 18px;
 }
 .box-footer-social_ig {
-    background-image: url(/img/instagram.svg);
+    background-image: url(../img/instagram.svg);
     background-size: 18px 18px;
 }
 .box-footer-social_fb {
-    background-image: url(/img/facebook.svg);
+    background-image: url(../img/facebook.svg);
     background-size: 20px 20px;
 }
